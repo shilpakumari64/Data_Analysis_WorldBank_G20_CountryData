@@ -67,7 +67,5 @@ git clone https://github.com/shilpakumari64/Data_Analysis_WorldBank_G20_CountryD
 
 ### Conclusion
 
-This data analysis project provides valuable insights into various economic indicators
-
- of G20 countries. The combination of Python, Pandas, and Tableau enables efficient data processing, analysis, and visualization. The visualizations created in Tableau offer an interactive and intuitive way to explore and understand the economic trends and patterns across different countries.
+This data analysis project provides valuable insights into various economic indicators of G20 countries. The combination of Python, Pandas, and Tableau enables efficient data processing, analysis, and visualization. The visualizations created in Tableau offer an interactive and intuitive way to explore and understand the economic trends and patterns across different countries.
 
